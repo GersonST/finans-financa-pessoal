@@ -12,4 +12,4 @@
 
 ## Front-end
 
-<img src="img/page-finans.jpeg">
+<img src="img/page-finans.jpg">
